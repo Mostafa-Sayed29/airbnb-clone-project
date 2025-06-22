@@ -87,6 +87,32 @@ Understanding the design properties from the Figma mockup ensures **consistency 
 - Improves accessibility and responsiveness across devices
 
 By referencing specific design tokens (colors, fonts, spacing), we bridge the gap between UI design and code implementation more effectively.
+## 🧑‍💼 Project Roles and Responsibilities
+
+A successful software project depends on clearly defined roles and effective collaboration. Below are the key roles involved in the AirBnB Clone project and their primary responsibilities:
+
+| Role | Responsibilities |
+|------|------------------|
+| **👨‍💼 Project Manager** | - Oversees the project timeline and deliverables<br>- Manages team coordination and resources<br>- Communicates updates to stakeholders<br>- Handles risk management and issue resolution |
+| **🎯 Product Owner** | - Defines the product vision and goals<br>- Manages the product backlog<br>- Prioritizes features based on user and business value<br>- Acts as the main link between stakeholders and the dev team |
+| **🧑‍💻 Frontend Developers** | - Build the user-facing components using HTML, CSS, and JavaScript<br>- Implement design mockups from Figma<br>- Ensure responsiveness and cross-browser compatibility<br>- Integrate with backend APIs |
+| **🖥️ Backend Developers** | - Design and implement server-side logic using Python/Flask<br>- Create and manage the database models<br>- Build RESTful APIs for frontend integration<br>- Ensure data security and performance |
+| **🎨 UI/UX Designers** | - Design intuitive, user-friendly interfaces<br>- Create wireframes, mockups, and interactive prototypes in Figma<br>- Define typography, color palettes, and layout grids<br>- Conduct user testing and iterate on designs |
+| **🔍 QA/Testers** | - Develop test cases and test plans<br>- Perform manual and automated testing<br>- Report bugs and track issue resolution<br>- Ensure the app meets quality and usability standards |
+| **⚙️ DevOps Engineers** | - Set up CI/CD pipelines<br>- Manage cloud infrastructure and deployment environments<br>- Monitor system performance and uptime<br>- Handle backups, logging, and security protocols |
+| **📅 Scrum Master** | - Facilitates Agile ceremonies (standups, sprint planning, retros)<br>- Removes blockers and promotes team productivity<br>- Ensures adherence to Scrum principles<br>- Acts as a coach for Agile best practices |
+
+---
+
+### 🤝 How These Roles Contribute to Success
+
+- Clear ownership = smoother execution  
+- Specialization = higher quality outputs  
+- Communication = faster decision-making  
+- Collaboration = product that meets user needs
+
+When every team member understands their role and responsibilities, the entire team moves more efficiently toward a successful delivery.
+
 
 
 
