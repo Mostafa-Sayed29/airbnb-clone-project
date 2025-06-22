@@ -112,6 +112,32 @@ A successful software project depends on clearly defined roles and effective col
 - Collaboration = product that meets user needs
 
 When every team member understands their role and responsibilities, the entire team moves more efficiently toward a successful delivery.
+## 🧩 UI Component Patterns
+
+To build a modular and maintainable front-end architecture, we will develop reusable UI components that follow consistent design patterns. These components will help speed up development, ensure visual consistency, and support scalability.
+
+### 📦 Planned Components
+
+| Component | Description |
+|-----------|-------------|
+| **🔝 Navbar** | A top navigation bar that includes the logo, search bar, menu links (e.g., Login, Signup), and responsive behavior for mobile devices. |
+| **🏘️ Property Card** | A card component that displays an image, title, price, rating, location, and a short description. Used in the Property Listing View. |
+| **📑 Property Detail Section** | Displays detailed information for a single property including amenities, host information, reviews, and map view. |
+| **📅 Booking Form** | A user-friendly form for selecting check-in/check-out dates, number of guests, and initiating the booking process. |
+| **✅ Confirmation Modal** | A pop-up modal that confirms successful booking or prompts the user to take a final action. |
+| **🔚 Footer** | The site footer with links to help, privacy policy, social media, and company information. Designed to be consistent across all pages. |
+
+---
+
+### 🧠 Why Component Patterns Matter
+
+- **Reusability**: Build once, reuse everywhere  
+- **Consistency**: Shared styling and behavior across pages  
+- **Scalability**: Easier to maintain and expand the UI  
+- **Team Collaboration**: Clearly defined component boundaries aid in teamwork  
+
+As development progresses, additional components (e.g., buttons, loaders, error messages) will be added to support a smooth and complete user experience.
+
 
 
 
