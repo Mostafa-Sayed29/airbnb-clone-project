@@ -52,6 +52,42 @@ In a booking system like this, **user-friendliness directly impacts conversion r
 - **Better mobile usability** — crucial for travel apps
 
 Creating a frictionless experience is essential to encouraging user engagement and satisfaction.
+### 🎨 Figma Design Properties
+
+Below is a list of the core design properties observed from the Figma mockup:
+
+#### 🖌️ Color Styles
+- **Primary Color:** #FF5A5F (Airbnb Red)
+- **Secondary Color:** #484848 (Dark Gray)
+- **Accent Color:** #00A699 (Teal)
+- **Background Color:** #FFFFFF (White)
+- **Light Gray:** #F7F7F7
+- **Border Color:** #DDDDDD
+
+#### 🔠 Typography
+
+| Style         | Font Family       | Font Weight | Font Size |
+|---------------|-------------------|-------------|-----------|
+| Headings (H1) | Circular Std      | Bold        | 32px      |
+| Subheadings   | Circular Std      | Medium      | 24px      |
+| Body Text     | Circular Std      | Regular     | 16px      |
+| Captions      | Circular Std      | Light       | 12px      |
+
+> *Note:* If Circular Std is unavailable, you can use system-safe fallbacks like **Helvetica**, **Arial**, or **Sans-serif**.
+
+---
+
+### 🔍 Why Identifying Design Properties Matters
+
+Understanding the design properties from the Figma mockup ensures **consistency and accuracy** when translating designs into code. Here’s why it’s important:
+- Ensures that **colors, fonts, and layout** remain visually aligned with the design system
+- Helps developers maintain **UI consistency** across all pages
+- Makes future collaboration between designers and developers smoother
+- Allows faster prototyping and implementation
+- Improves accessibility and responsiveness across devices
+
+By referencing specific design tokens (colors, fonts, spacing), we bridge the gap between UI design and code implementation more effectively.
+
 
 
 
